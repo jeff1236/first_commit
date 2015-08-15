@@ -54,7 +54,7 @@
         <title>Jeff's Car Dealership</title>
     </head>
     <body>
-        <h1>Jeff's AutoLand</h1>
+        <h1>Jeff's AutoLand Mall</h1>
         <ul>
             <?php
                 //displays the cars matching user search
